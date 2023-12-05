@@ -1,0 +1,47 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    flex: 1;
+}
+
+body {
+    background-color: gray;
+    background-image: url("ph/back.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Increase the font size of the icons */
+.list-group-item i {
+    margin-right: 1.5rem;
+    font-size: 1.5rem;
+}
+
+.fa-instagram {
+    margin-right: 1.5rem;
+    font-size: 2rem!important;
+}
+
+.list-group-item {
+    background-color: #28a745;
+}
+
+  /* Remove underline from link elements and change link color to white */
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(231, 230, 230);
+}
+
+footer {
+    background-color: #2b2b2b;
+}
