@@ -1,0 +1,12 @@
+{
+    "name": "build",
+    "type": "module",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node photo_compression.js"
+    },
+    "dependencies": {
+        "imagemin": "^8.0.1",
+        "imagemin-jpegtran": "^7.0.0"
+    }
+}
