@@ -103,7 +103,7 @@ function createPriceElement(itemData) {
 
 function createDescriptionElement(itemData) {
     const description = document.createElement("p");
-    if (itemData.category == "cocktails") {
+    if (itemData.category === "cocktails") {
         description.textContent = itemData.ingredients;
     } else {
         description.textContent = itemData.description;

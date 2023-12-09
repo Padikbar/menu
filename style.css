@@ -2,10 +2,6 @@
     padding: 0.1rem;
 }
 
-body {
-    background-color: gray;
-}
-
 .navbar {
     background-color: #2b2b2b;
 }
@@ -89,21 +85,21 @@ header {
 }
 
 .dropdown-menu {
-    background-color: gray;
+    background-color: #2b2b2b;
 }
 
 .dropdown-item {
     color: #fff !important;
-    background-color: gray;
+    background-color: #2b2b2b;
 }
 
 .dropdown-item:hover {
     color: #d2d2d2 !important;
-    background-color: grey;
+    background-color: #2b2b2b;
 }
 
 .dropdown-divider {
-    border-top: 2px solid #2b2b2b;
+    border-top: 2px solid grey;
 }
 
 .desc {
@@ -115,7 +111,7 @@ header {
 
 @media (max-width: 768px) {
     html {
-        scroll-padding-top: 140px;
+        scroll-padding-top: 220px;
         /* height of sticky header */
     }
 }
@@ -130,6 +126,10 @@ header {
 
 body {
     background-color: rgb(65, 64, 64);
+}
+
+.modal-content {
+    background-color: #2b2b2b;
 }
 
 h1 {
