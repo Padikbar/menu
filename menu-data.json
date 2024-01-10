@@ -574,8 +574,8 @@
   },
   {
     "name": "Бастурма",
-    "price": 80,
-    "weight": 87,
+    "price": 87,
+    "weight": 80,
     "description": "",
     "group": "ЗАКУСКИ",
     "category": "kitchen",
