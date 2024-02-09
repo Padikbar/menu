@@ -1386,41 +1386,41 @@
     "weight": "50 мл",
     "price": "96 грн",
     "group": "БРЕНДІ",
-    "category": "brandy"
+    "category": "cocktails"
   },
   {
     "name": "Metaxa",
     "weight": "50 мл",
     "price": "80 грн",
     "group": "БРЕНДІ",
-    "category": "brandy"
+    "category": "cocktails"
   },
   {
     "name": "Асканелі 3 y.o.",
     "weight": "50 мл",
     "price": "59 грн",
     "group": "БРЕНДІ",
-    "category": "brandy"
+    "category": "cocktails"
   },
   {
     "name": "Асканелі 4 y.o.",
     "weight": "50 мл",
     "price": "65 грн",
     "group": "БРЕНДІ",
-    "category": "brandy"
+    "category": "cocktails"
   },
   {
     "name": "Кальвадос",
     "weight": "50 мл",
     "price": "99 грн",
     "group": "БРЕНДІ",
-    "category": "brandy"
+    "category": "cocktails"
   },
   {
     "name": "Hennessy V.S.",
     "weight": "50 мл",
     "price": "172 грн",
     "group": "Коньяк",
-    "category": "brandy"
+    "category": "cocktails"
   },  
 ]
