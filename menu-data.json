@@ -1137,6 +1137,27 @@
     "category": "cocktails"
   },
   {
+    "name": "Варштайнер",
+    "weight": "330 мл",
+    "price": "99 грн",
+    "group": "ПИВО",
+    "category": "cocktails"
+  },
+  {
+    "name": "Гіннес",
+    "weight": "440 мл",
+    "price": "164 грн",
+    "group": "ПИВО",
+    "category": "cocktails"
+  },
+  {
+    "name": "Грімберген Бланш/Блонд/Амбрі",
+    "weight": "330 мл",
+    "price": "89 грн",
+    "group": "ПИВО",
+    "category": "cocktails"
+  },
+  {
     "name": "Пиво б/а в асортименті",
     "weight": "500 мл",
     "price": "62 грн",
