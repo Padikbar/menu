@@ -708,15 +708,6 @@
     "picture": ""
   },
   {
-    "name": "Тістечко в ассортименті",
-    "price": 80,
-    "weight": 65,
-    "description": "",
-    "group": "ДЕСЕРТИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
     "name": "Пухлина мозку",
     "weight": "60 мл",
     "price": "99 грн",
@@ -1258,6 +1249,13 @@
   {
     "name": "Burn",
     "weight": "250 мл",
+    "price": "64 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Battery Energy",
+    "weight": "500 мл",
     "price": "56 грн",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
