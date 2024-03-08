@@ -1324,6 +1324,20 @@
     "category": "wine"
   },
   {
+    "name": "Saint Clair Sauvignon Rose Marlborough Sun сухе",
+    "weight": "50 мл",
+    "price": "60 грн",
+    "group": "БІЛЕ",
+    "category": "wine"
+  },
+  {
+    "name": "Marlborough Sun Merlot сухе",
+    "weight": "50 мл",
+    "price": "65 грн",
+    "group": "ЧЕРВОНЕ",
+    "category": "wine"
+  },
+  {
     "name": "Le Coursier Rouge нап/солодке",
     "weight": "50 мл",
     "price": "33 грн",
