@@ -1352,10 +1352,17 @@
     "category": "wine"
   },
   {
-    "name": "SANDEMAN портвейн",
+    "name": "Porto SANDEMAN портвейн червоний",
     "weight": "50 мл",
     "price": "66 грн",
     "group": "ЧЕРВОНЕ",
+    "category": "wine"
+  },
+  {
+    "name": "Porto SANDEMAN портвейн білий",
+    "weight": "50 мл",
+    "price": 70 грн",
+    "group": "БІЛЕ",
     "category": "wine"
   },
   {
