@@ -645,15 +645,6 @@
     "picture": ""
   },
   {
-    "name": "Перуанський кальмар",
-    "price": 102,
-    "weight": 80,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
     "name": "Сирне плато",
     "price": 145,
     "weight": 180,
@@ -666,15 +657,6 @@
     "name": "Сирні кульки",
     "price": 86,
     "weight": 150,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Тріска з перцем",
-    "price": 86,
-    "weight": 80,
     "description": "",
     "group": "ЗАКУСКИ",
     "category": "kitchen",
@@ -872,13 +854,6 @@
     "name": "Ballantines Finest",
     "weight": "50 мл",
     "price": "71 грн",
-    "group": "ВІСКІ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Chivas Regal 12 y.o.",
-    "weight": "50 мл",
-    "price": "156 грн",
     "group": "ВІСКІ",
     "category": "cocktails"
   },
@@ -1268,7 +1243,7 @@
     "category": "cocktails"
   },
   {
-    "name": "Лимонад Тропік/Зелений/Від бармена",
+    "name": "Лимонад Від бармена",
     "weight": "300 мл",
     "price": "48 грн",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
