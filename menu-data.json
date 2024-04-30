@@ -1447,36 +1447,36 @@
   },
   {
     "name": "Солодкий чилі",
-    "weight": "50 гр",
-    "price": "16 грн",
+    "weight": "50",
+    "price": "16",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Кетчуп",
-    "weight": "50 гр",
-    "price": "16 грн",
+    "weight": "50",
+    "price": "16",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Часниковий",
-    "weight": "50 гр",
-    "price": "16 грн",
+    "weight": "50",
+    "price": "16",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Теріякі",
-    "weight": "50 гр",
-    "price": "16 грн",
+    "weight": "50",
+    "price": "16",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Гострий Кімчі",
-    "weight": "50 гр",
-    "price": "20 грн",
+    "weight": "50",
+    "price": "20",
     "group": "СОУСИ",
     "category": "kitchen"
   }
