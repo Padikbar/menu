@@ -1444,5 +1444,12 @@
     "price": "172 грн",
     "group": "КОНЬЯК",
     "category": "cocktails"
+  },
+  {
+    "name": "Солодкий чилі",
+    "weight": "50 гр",
+    "price": "16 грн",
+    "group": "СОУСИ",
+    "category": "kitchen"
   }
 ]
