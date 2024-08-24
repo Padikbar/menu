@@ -493,16 +493,6 @@
     "small_pic": "thumb-photos/chicken_cheese Medium.jpeg"
   },
   {
-    "name": "Різотто з тунцем",
-    "price": 128,
-    "weight": 260,
-    "description": "Наше Ризотто з тунцем - це гастрономічний шедевр, який вирушить вас у подорож смаками та вразить ваші смакові рецептори",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "photos/rizoto Large.jpeg",
-    "small_pic": "thumb-photos/rizoto Medium.jpeg"
-  },
-  {
     "name": "Смажена свиняча вирізка з картоплею фрі",
     "price": 212,
     "weight": 300,
@@ -739,23 +729,9 @@
     "category": "cocktails"
   },
   {
-    "name": "Flaming lamborghini",
-    "weight": "120 мл",
-    "price": "189 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
     "name": "Flaming Dr. Pepper",
     "weight": "200 мл",
     "price": "129 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Flaming Ferrari",
-    "weight": "120 мл",
-    "price": "189 грн",
     "group": "ШОТИ",
     "category": "cocktails"
   },
@@ -1088,6 +1064,12 @@
     "group": "ПИВО",
     "category": "cocktails"
   },
+    "name": "Carlsberg",
+    "weight": "300 мл",
+    "price": "45 грн",
+    "group": "ПИВО",
+    "category": "cocktails"
+  },
   {
     "name": "Дункель",
     "weight": "500 мл",
@@ -1103,12 +1085,6 @@
     "category": "cocktails"
   },
   {
-    "name": "Варштайнер",
-    "weight": "330 мл",
-    "price": "99 грн",
-    "group": "ПИВО",
-    "category": "cocktails"
-  },
   {
     "name": "Гіннес",
     "weight": "440 мл",
@@ -1202,15 +1178,15 @@
   },
   {
     "name": "Coca-Cola",
-    "weight": "500 мл",
-    "price": "38 грн",
+    "weight": "330 мл",
+    "price": "35 грн",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Schweppes Tonic",
-    "weight": "250 мл",
-    "price": "25 грн",
+    "weight": "330 мл",
+    "price": "45 грн",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
@@ -1222,16 +1198,9 @@
     "category": "cocktails"
   },
   {
-    "name": "Burn",
-    "weight": "250 мл",
-    "price": "64 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
     "name": "Battery Energy",
-    "weight": "500 мл",
-    "price": "56 грн",
+    "weight": "330 мл",
+    "price": "45 грн",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
@@ -1441,28 +1410,42 @@
   {
     "name": "Кетчуп",
     "weight": "50",
-    "price": "16",
+    "price": "20",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Часниковий",
     "weight": "50",
-    "price": "16",
+    "price": "20",
+    "group": "СОУСИ",
+    "category": "kitchen"
+  },
+  {
+    "name": "Брусничний",
+    "weight": "50",
+    "price": "20",
+    "group": "СОУСИ",
+    "category": "kitchen"
+  },
+  {
+    "name": "Сирний",
+    "weight": "50",
+    "price": "20",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Теріякі",
     "weight": "50",
-    "price": "16",
+    "price": "20",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Гострий Кімчі",
     "weight": "50",
-    "price": "20",
+    "price": "25",
     "group": "СОУСИ",
     "category": "kitchen"
   }
