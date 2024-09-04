@@ -209,7 +209,7 @@
     "picture": "photos/aviation Large.jpeg"
   },
   {
-    "name": "Deep Blue Sea",
+    "name": "Deep Sea",
     "ingredients": "Джин, лікер ожини, апельсиновий лікер, сироп бузини, лимонний фреш, Easy Foam",
     "weight": 180,
     "description": "у цьому коктейлі об'єднані елементи класичного джину, витонченого лікеру ожини, апельсинового лікеру та ароматного сиропу бузини. Додайте до цього свіжість лимонного фрешу, і ви отримаєте напій, який вражає смакові рецептори чарівною гармонією фруктових та цитрусових нот.",
@@ -493,36 +493,6 @@
     "small_pic": "thumb-photos/chicken_cheese Medium.jpeg"
   },
   {
-    "name": "Смажена свиняча вирізка з картоплею фрі",
-    "price": 212,
-    "weight": 300,
-    "description": "Ця страва вражає поєднанням солодкого та солоного смаку свинячої вирізки, хрустку картоплі фрі та свіжості салату",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "photos/virizka Large.jpeg",
-    "small_pic": "thumb-photos/virizka Medium.jpeg"
-  },
-  {
-    "name": "Філе телапії з мигдалевими пластівцями",
-    "price": 148,
-    "weight": 150,
-    "description": "Наше Філе тілапії з мигдалевими нотками - це справжнє витвір мистецтва смаку, який зачаровує ніжністю та ароматом. Ми пишаємося пропонувати цей шедевр гастрономії нашим гостям.",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "photos/file_megdal Large.jpeg",
-    "small_pic": "thumb-photos/file_megdal Medium.jpeg"
-  },
-  {
-    "name": "Фішболи телапії з рисом",
-    "price": 128,
-    "weight": 220,
-    "description": "Це блюдо вражає поєднанням ніжності тілапії та хрусткості фритюру, а рис доповнює його смаковий профіль, роблячи страву більш збалансованою. Наші Фішболи з тілапії во фритюрі з рисом - це справжня гастрономічна розкіш, яку ми раді пропонувати нашим гостям.",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "photos/fishbols Large.jpeg",
-    "small_pic": "thumb-photos/fishbols Medium.jpeg"
-  },
-  {
     "name": "Паста карбонара",
     "price": 138,
     "weight": 250,
@@ -565,24 +535,6 @@
   {
     "name": "Бастурма",
     "price": 104,
-    "weight": 80,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Брускета з оселедцем",
-    "price": 110,
-    "weight": 270,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Вялені курячі слайси",
-    "price": 87,
     "weight": 80,
     "description": "",
     "group": "ЗАКУСКИ",
@@ -656,15 +608,6 @@
     "name": "Фісташки",
     "price": 88,
     "weight": 80,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Фруктове плато",
-    "price": 42,
-    "weight": 150,
     "description": "",
     "group": "ЗАКУСКИ",
     "category": "kitchen",
@@ -841,13 +784,6 @@
     "category": "cocktails"
   },
   {
-    "name": "Tenjaku",
-    "weight": "50 мл",
-    "price": "140 грн",
-    "group": "ВІСКІ",
-    "category": "cocktails"
-  },
-  {
     "name": "Bacardi Spiced",
     "weight": "50 мл",
     "price": "72 грн",
@@ -941,14 +877,14 @@
   {
     "name": "Finlandia",
     "weight": "50 мл",
-    "price": "66 грн",
+    "price": "65 грн",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
   {
     "name": "Finlandia грейпфрут",
     "weight": "50 мл",
-    "price": "67 грн",
+    "price": "65 грн",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
