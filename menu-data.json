@@ -450,6 +450,36 @@
     "small_pic": "thumb-photos/kovbaski Small.jpeg"
   },
   {
+    "name": "Шніцель",
+    "price": 170,
+    "weight": 420,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "",
+    "small_pic": ""
+  },
+  {
+    "name": "Бургер с картполей фрі",
+    "price": 220,
+    "weight": 450,
+    "description": "",
+    "group": "БУРГЕРИ",
+    "category": "kitchen",
+    "picture": "",
+    "small_pic": ""
+  },
+  {
+    "name": "Чікен-Бургер с картполей фрі",
+    "price": 210,
+    "weight": 390,
+    "description": "",
+    "group": "БУРГЕРИ",
+    "category": "kitchen",
+    "picture": "",
+    "small_pic": ""
+  },
+  {
     "name": "Куряче філе під сирною шапкою",
     "price": 126,
     "weight": 220,
