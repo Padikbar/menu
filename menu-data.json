@@ -527,6 +527,15 @@
     "picture": ""
   },
   {
+    "name": "Батат з сирним соусом",
+    "price": 120,
+    "weight": 150,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
     "name": "Кільця кальмара",
     "price": 146,
     "weight": 150,
