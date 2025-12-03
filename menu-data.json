@@ -1,135 +1,297 @@
 [
   {
-    "name": "Вуса Бармена #1",
-    "ingredients": "Текіла настояна на анчаї, апельсиновий лікер, сироп бузини, лимонний фреш, Easy Foam",
-    "weight": 120,
-    "description": "Ароматна експлозія трав'яної Текіли на анчаї, ніжно поєднана з екзотичним апельсиновим лікером і соком лимону. До цього ексклюзивного коктейлю додається сироп з ароматної бузини,",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/barmen-mustache1 Small.jpeg",
-    "picture": "photos/barmen-mustache1 Large.jpeg"
+    "name": "Ковбаски гриль з картопляними діпами",
+    "price": 180,
+    "weight": 320,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "photos/sosage_dip Large.jpeg",
+    "small_pic": "thumb-photos/sosage_dip Small.jpeg"
   },
   {
-    "name": "M-400",
-    "ingredients": "Віскі, сироп пряна вишня, лимонний фреш, Easy foam",
-    "weight": 140,
-    "description": "Елегантний і бадьорий коктейль, в якому вишуканий смак віскі поєднується з ароматним сиропом пряної вишні та свіжістю лимонного фреша. Цей напій створений для справжніх поціновувачів віскі, які шукають гармонію між багатим смаком та освіжаючою легкістю.",
-    "price": 129,
+    "name": "Ковбаски курячі  з картопляними діпами",
+    "price": 180,
+    "weight": 320,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "photos/sosage_dip Large.jpeg",
+    "small_pic": "thumb-photos/sosage_dip Small.jpeg"
+  },
+  {
+    "name": "Шніцель свинний з картоплею",
+    "price": 210,
+    "weight": 350,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "photos/shnitzel Large.jpeg",
+    "small_pic": "thumb-photos/shnitzel Small.jpeg"
+  },
+  {
+    "name": "Шніцель курячий з картоплею",
+    "price": 190,
+    "weight": 350,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "photos/shnitzel Large.jpeg",
+    "small_pic": "thumb-photos/shnitzel Small.jpeg"
+  },
+  {
+    "name": "Паста з куркою та грибами",
+    "price": 180,
+    "weight": 300,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "photos/pasta_chiken_mashroom Large.jpeg",
+    "small_pic": "thumb-photos/pasta_chiken_mashroom Small.jpeg"
+  },
+  {
+    "name": "Паста з креветками",
+    "price": 230,
+    "weight": 300,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "photos/pasta_shrimps Large.jpeg",
+    "small_pic": "thumb-photos/pasta_shrimps Small.jpeg"
+  },
+  {
+    "name": "Паста \"Карбонара\"",
+    "price": 200,
+    "weight": 300,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "photos/karbonar Large.jpeg",
+    "small_pic": "thumb-photos/karbonar Small.jpeg"
+  },
+  {
+    "name": "Креветки в соусі теріякі",
+    "price": 250,
+    "weight": 250,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": "photos/shrimps_ter Large.jpeg",
+    "small_pic": "thumb-photos/shrimps_ter Small.jpeg"
+  },
+  {
+    "name": "Бургер з яловичиною та картоплею фрі",
+    "price": 240,
+    "weight": 400,
+    "description": "",
+    "group": "БУРГЕРИ",
+    "category": "kitchen",
+    "picture": "photos/burger Large.jpeg",
+    "small_pic": "thumb-photos/burger Small.jpeg"
+  },
+  {
+    "name": "Чікен-Бургер з картоплею фрі",
+    "price": 220,
+    "weight": 400,
+    "description": "",
+    "group": "БУРГЕРИ",
+    "category": "kitchen",
+    "picture": "photos/chiken_burger Large.jpeg",
+    "small_pic": "thumb-photos/chiken_burger Small.jpeg"
+  },
+  {
+    "name": "Цезар з куркою та беконом",
+    "price": 230,
+    "weight": 400,
+    "description": "",
+    "group": "САЛАТИ",
+    "category": "kitchen",
+    "picture": "photos/caesar_chiken Large.jpeg",
+    "small_pic": "thumb-photos/caesar_chiken Small.jpeg"
+  },
+  {
+    "name": "Цезар з лососем",
+    "price": 260,
+    "weight": 400,
+    "description": "",
+    "group": "САЛАТИ",
+    "category": "kitchen",
+    "picture": "photos/caesar_salmon Large.jpeg",
+    "small_pic": "thumb-photos/caesar_salmon Small.jpeg"
+  },
+  {
+    "name": "Салат з тигровими креветками",
+    "price": 260,
+    "weight": 300,
+    "description": "",
+    "group": "САЛАТИ",
+    "category": "kitchen",
+    "picture": "photos/shrimp_salad Large.jpeg",
+    "small_pic": "thumb-photos/shrimp_salad Small.jpeg"
+  },
+  {
+    "name": "Грецький",
+    "price": 200,
+    "weight": 250,
+    "description": "",
+    "group": "САЛАТИ",
+    "category": "kitchen",
+    "picture": "photos/greece Large.jpeg",
+    "small_pic": "thumb-photos/greece Small.jpeg"
+  },
+  {
+    "name": "Adam and Eve",
+    "ingredients": "Білий ром, лікер зелений банан, сироп зелене яблуко, лимонний фреш",
+    "weight": 160,
+    "description": "авторський коктейль нашого бару, який поєднує у собі екзотику білого рому, глибину лікеру зеленого банана та свіжість лимонного фрешу. До цього таємничого міксу додається ніжність сиропу зеленого яблука, створюючи яскравий і неповторний смаковий досвід, що вражає",
+    "price": 220,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "thumb-photos/M-400 Small.jpeg",
-    "picture": "photos/M-400 Large.jpeg"
+    "small_pic": "thumb-photos/adam_n_eve Small.jpeg",
+    "picture": "photos/adam_n_eve Large.jpeg"
+  },
+  {
+    "name": "Aperol Spritz",
+    "ingredients": "Лікер аперитив, ігристе вино, содова",
+    "weight": 200,
+    "description": "легендарний італійський аперитив, що відзначається своєю освіжаючою легкістю. Змішаний з ігристим вином та домішкою соди, цей коктейль створює ідеальний баланс фруктової гірчинки та легкої ефервесценції. Відчуйте атмосферу справжньої італійської дольче в кожному глеку.",
+    "price": 200,
+    "group": "КОКТЕЙЛІ",
+    "category": "cocktails",
+    "small_pic": "thumb-photos/aperol_spritz Small.jpeg",
+    "picture": "photos/aperol_spritz Large.jpeg"
   },
   {
     "name": "Circus",
     "ingredients": "Горілка солона карамель,сезонне пюре, апельсиновий лікер, лимонний фреш, Easy foam",
     "weight": 180,
     "description": "Ексклюзивний коктейль, що вражає своєю унікальністю: горілка, пропитана солодко-соленою карамеллю, зливається з апельсиновим лікером та свіжістю лимонного фреша. Сезонне пюре надає напою неповторної ароматики, роблячи кожен ковток справжньою подорожжю смаком.",
-    "price": 149,
+    "price": 190,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
     "small_pic": "thumb-photos/circus Small.jpeg",
     "picture": "photos/circus Large.jpeg"
   },
   {
-    "name": "Mai Tai #5",
-    "ingredients": "Золотий ром, білий ром, апельсиновий лікер, абсент, мигдальний сироп, фреш лайму, темний міцний ром",
-    "weight": 110,
-    "description": "Витончена суміш золотого та білого рому, обвітрена ароматним апельсиновим лікером та приправлена таємничим абсентом. Мигдальний сироп та цукровий сироп додають ніжності та сладенького акценту, а завершується це шедевр темним міцним ромом, що робить кожен ковток як оксамитову симфонію смаку.",
-    "price": 179,
+    "name": "Cosmo",
+    "ingredients": "",
+    "weight": 170,
+    "description": "",
+    "price": 190,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "thumb-photos/mai-tai5 Small.jpeg",
-    "picture": "photos/mai-tai5 Large.jpeg"
+    "small_pic": "",
+    "picture": ""
   },
   {
-    "name": "Pulp Fiction",
-    "ingredients": "Золота текіла, джин, горілка, апельсиновий лікер, мигдальний сироп, ананасовий сік, лимонний фреш",
-    "weight": 250,
-    "description": "Це золота текіла, джин та горілка, що витають у розкішному обіймі апельсинового лікеру. Мигдальний сироп додає ніжності, а ананасовий сік та лимонний фреш надають цьому напою свіжість та екзотичний шарм.",
-    "price": 179,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/pulp_fiction Small.jpeg",
-    "picture": "photos/pulp_fiction Large.jpeg"
-  },
-  {
-    "name": "Green Alyona",
-    "ingredients": "Джин, лікер зелений банан, сироп огірка, ківі, лимонний фреш, Easy Foam",
+    "name": "Gin Garden",
+    "ingredients": "",
     "weight": 120,
-    "description": "Ігристий джин, який взаємодіє з екзотичним лікером зеленого банана та прохолодним сиропом огірка. Додайте до цього свіжість ківі та виразний лимонний фреш, і ви отримаєте неповторний напій, який тішить смакові рецептори своєю ароматною композицією.",
-    "price": 179,
+    "description": "",
+    "price": 200,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "thumb-photos/green_alyona Small.jpeg",
-    "picture": "photos/green_alyona Large.jpeg"
+    "small_pic": "",
+    "picture": ""
   },
   {
-    "name": "Zombi",
-    "ingredients": "Золотий ром, білий ром, темний ром, бітер ангостура, сироп фалернум, грейпфрутовий сік, сироп гренадін,  лимонний фреш",
-    "weight": 160,
-    "description": "Унікальне поєднання золотого, білого та темного рому, підкреслене бітерами Ангостура. Сироп фалернум додає екзотичну нотку, а грейпфрутовий сік та сироп гренадін вносять свіжість та освіжаючий відтінок. Лимонний фреш завершує цю розкішну симфонію смаку, створюючи неперевершений коктейль для справжніх цінителів рому.",
-    "price": 179,
+    "name": "Gin Garden",
+    "ingredients": "",
+    "weight": 120,
+    "description": "",
+    "price": 200,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "thumb-photos/zombie Small.jpeg",
-    "picture": "photos/zombie Large.jpeg"
+    "small_pic": "",
+    "picture": ""
   },
   {
-    "name": "Cream Spicy",
-    "ingredients": "Темний ром, мигдальний лікер, вершки, сироп гарбуз с прянощамі, кориця, мускатний горіх",
-    "weight": 140,
-    "description": "Темний ром, що танцює з мигдальним лікером, приправлений вершками для ніжності. Сироп гарбуза з прянощами додає теплоти, а кориця та мускатний горіх завершують цей напій, створюючи чарівний аромат та багатий смак, який призиває до спокійного осіннього вечора.",
-    "price": 179,
+    "name": "Глінтвейн",
+    "ingredients": "",
+    "weight": 170,
+    "description": "",
+    "price": 100,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "thumb-photos/cream_spicy Small.jpeg",
-    "picture": "photos/cream_spicy Large.jpeg"
-  },
-  {
-    "name": "Вуса Бармена #2",
-    "ingredients": "Золота текіла, апельсиновий лікер, лікер маракуї, пюре маракуї, Easy Foam",
-    "weight": 130,
-    "description": "поєднання золотої текіли, апельсинового лікеру та лікеру маракуї, що об'єднуються з пюре маракуї. Ця чарівна комбінація створює яскравий та освіжаючий напій, який переносить вас прямо на теплі береги та заводить в ритмі сонячного вихру.",
-    "price": 179,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/barmen-mustache2 Small.jpeg",
-    "picture": "photos/barmen-mustache2 Large.jpeg"
+    "small_pic": "",
+    "picture": ""
   },
   {
     "name": "Porn Star Martini",
     "ingredients": "Горілка ванільна, лікер маракуї, пюре маракуї, цукровий сироп, ігристе вино",
     "weight": 220,
     "description": "Порнстар Мартіні\"  це екзотична симфонія, в якій зустрічаються апетитна ваніль, легка кислинка лікеру маракуї, інтенсивність пюре маракуї та ніжна солодкість цукрового сиропу. Підсилений ігристим вином, цей коктейль — справжня оргія смаку, яка вас вразить.",
-    "price": 239,
+    "price": 230,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
     "small_pic": "thumb-photos/pornstar_martini Small.jpeg",
     "picture": "photos/pornstar_martini Large.jpeg"
   },
   {
-    "name": "Clover Club",
-    "ingredients": "Джин, малинове пюре, лимонний фреш, Easy Foam",
-    "weight": 110,
-    "description": "витончений мікс на основі джину, який зустрічається з ароматним малиновим пюре та освіжаючим лимонним фрешем. Цей напій надає новий рівень класичному коктейлю, роблячи його ідеальним вибором для тих, хто цінує свіжість та смакові відтінки.",
-    "price": 129,
+    "name": "Zombi",
+    "ingredients": "Золотий ром, білий ром, темний ром, бітер ангостура, сироп фалернум, грейпфрутовий сік, сироп гренадін,  лимонний фреш",
+    "weight": 200,
+    "description": "Унікальне поєднання золотого, білого та темного рому, підкреслене бітерами Ангостура. Сироп фалернум додає екзотичну нотку, а грейпфрутовий сік та сироп гренадін вносять свіжість та освіжаючий відтінок. Лимонний фреш завершує цю розкішну симфонію смаку, створюючи неперевершений коктейль для справжніх цінителів рому.",
+    "price": 210,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "thumb-photos/clover_club Small.jpeg",
-    "picture": "photos/clover_club Large.jpeg"
+    "small_pic": "thumb-photos/zombie Small.jpeg",
+    "picture": "photos/zombie Large.jpeg"
   },
   {
-    "name": "Вбивця Апероля",
-    "ingredients": "Горілка грейпфрутова, вермут червоний солодкий, сезонне пюре, лимонний фреш, тонік",
-    "weight": 200,
-    "description": "райлива гармонія грейпфрутової горілки, вермуту червоного солодкого та сезонного пюре, збагачена свіжістю лимонного фрешу. Завершує цей освіжаючий напій тонік, надаючи йому бадьору легкість і створюючи ідеальний коктейль для літніх насолод.",
-    "price": 129,
+    "name": "Boulevardier",
+    "ingredients": "Віскі, настоянка гірка, вермут червоний гіркий",
+    "weight": 100,
+    "description": "в цьому елітному коктейлі об'єднуються сила віскі, насиченість настоянки гірка та вишуканість вермуту червоного гіркого. Його характерні гіркі та ароматні відтінки створюють справжню симфонію для гурманів, які цінують витончений смак і вражаючу глибину аромату.",
+    "price": 190,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "thumb-photos/aperol_killer Small.jpeg",
-    "picture": "photos/aperol_killer Large.jpeg"
+    "small_pic": "thumb-photos/boulevardier Small.jpeg",
+    "picture": "photos/boulevardier Large.jpeg"
+  },
+  {
+    "name": "Margarita",
+    "ingredients": "Срібна текіла, апельсиновий лікер, цукровий сироп, фреш лайму, сіль",
+    "weight": 120,
+    "description": "цей культовий коктейль пробуджує смакові рецептори за допомогою срібної текіли та апельсинового лікеру. Солодкий цукровий сироп та освіжаючий фреш лайму додають балансу, а сіль на краю склянки завершує цей смачний досвід, надаючи кожному ковтку неперевершену грань солодко-соленої насолоди.",
+    "price": 200,
+    "group": "КОКТЕЙЛІ",
+    "category": "cocktails",
+    "small_pic": "thumb-photos/margarita Small.jpeg",
+    "picture": "photos/margarita Large.jpeg"
+  },
+  {
+    "name": "Whyskey sour",
+    "ingredients": "Віскі, цукровий сироп, лимонний фреш, Easy Foam",
+    "weight": 100,
+    "description": "Сауери — це витончена колекція коктейлів, які завдяки цукровому сиропу і свіжому лимонному фрешу отримали новий рівень смаку. В кожному глеку об'єднані стійкі алкогольні бази з додатковою глибиною, яку надає цей вигаданий дует. Відчуйте насиченість смаку та аромату в кожному ковтку, де класика поєднується з теплим привкусом інновацій.",
+    "price": 180,
+    "group": "КОКТЕЙЛІ",
+    "category": "cocktails",
+    "small_pic": "thumb-photos/all_sours Small.jpeg",
+    "picture": "photos/all_sours Large.jpeg"
+  },
+  {
+    "name": "Pulp Fiction",
+    "ingredients": "Золота текіла, джин, горілка, апельсиновий лікер, мигдальний сироп, ананасовий сік, лимонний фреш",
+    "weight": 230,
+    "description": "Це золота текіла, джин та горілка, що витають у розкішному обіймі апельсинового лікеру. Мигдальний сироп додає ніжності, а ананасовий сік та лимонний фреш надають цьому напою свіжість та екзотичний шарм.",
+    "price": 220,
+    "group": "КОКТЕЙЛІ",
+    "category": "cocktails",
+    "small_pic": "thumb-photos/pulp_fiction Small.jpeg",
+    "picture": "photos/pulp_fiction Large.jpeg"
+  },
+  {
+    "name": "Old Fashion",
+    "ingredients": "Бурбон, тростинний цукор, бітер Ангостура, содова",
+    "weight": 70,
+    "description": "класика в новому виконанні. Витончений бурбон, тростинний цукор і бітер Ангостура об'єднують сили в цьому коктейлі, який переносить вас на стежку старовинного розкошу. Завершує цей витончений напій трошки содової, додаючи легкості кожному ковтку.",
+    "price": 130,
+    "group": "КОКТЕЙЛІ",
+    "category": "cocktails",
+    "small_pic": "thumb-photos/old_fashion Small.jpeg",
+    "picture": "photos/old_fashion Large.jpeg"
   },
   {
     "name": "Negroni",
@@ -143,740 +305,211 @@
     "picture": "photos/negroni Large.jpeg"
   },
   {
-    "name": "Маргарита",
-    "ingredients": "Срібна текіла, апельсиновий лікер, цукровий сироп, фреш лайму, сіль",
-    "weight": 120,
-    "description": "цей культовий коктейль пробуджує смакові рецептори за допомогою срібної текіли та апельсинового лікеру. Солодкий цукровий сироп та освіжаючий фреш лайму додають балансу, а сіль на краю склянки завершує цей смачний досвід, надаючи кожному ковтку неперевершену грань солодко-соленої насолоди.",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/margarita Small.jpeg",
-    "picture": "photos/margarita Large.jpeg"
-  },
-  {
-    "name": "Knickerbocker",
-    "ingredients": "Білий ром, апельсиновий лікер, сезонне пюре, лимонний фреш",
+    "name": "Long Island Ice Tea",
+    "ingredients": "",
     "weight": 180,
-    "description": "це витончений тандем білого рому та апельсинового лікеру, збагачений ароматним сезонним пюре та свіжістю лимонного фрешу. Його смаковий профіль — це справжній танець смаку, який привносить світло та освіження в кожен ковток.",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/knickerbocker Small.jpeg",
-    "picture": "photos/knickerbocker Large.jpeg"
-  },
-  {
-    "name": "Aperol Spritz",
-    "ingredients": "Лікер аперитив, ігристе вино, содова",
-    "weight": 200,
-    "description": "легендарний італійський аперитив, що відзначається своєю освіжаючою легкістю. Змішаний з ігристим вином та домішкою соди, цей коктейль створює ідеальний баланс фруктової гірчинки та легкої ефервесценції. Відчуйте атмосферу справжньої італійської дольче в кожному глеку.",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/aperol_spritz Small.jpeg",
-    "picture": "photos/aperol_spritz Large.jpeg"
-  },
-  {
-    "name": "Aviation",
-    "ingredients": "Джин, лікер черешні, лимонний фреш, лікер фіалки",
-    "weight": 110,
-    "description": "у цьому коктейлі об'єднуються витончений джин, лікер черешні, свіжість лимонного фрешу та аромат лікеру фіалки. Це справжня подорож на небеса смаку, де кожен ковток — це експлозія ароматів і гармонії смаків.",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/aviation Small.jpeg",
-    "picture": "photos/aviation Large.jpeg"
-  },
-  {
-    "name": "Deep purple",
-    "ingredients": "Джин ревень-імбир, пюре ожини, апельсиновий лікер, сироп бузини, лимонний фреш, Easy Foam",
-    "weight": 180,
-    "description": "у цьому коктейлі об'єднані елементи класичного джину, витонченого лікеру ожини, апельсинового лікеру та ароматного сиропу бузини. Додайте до цього свіжість лимонного фрешу, і ви отримаєте напій, який вражає смакові рецептори чарівною гармонією фруктових та цитрусових нот.",
-    "price": 179,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/deep_blue_sea Small.jpeg",
-    "picture": "photos/deep_blue_sea Large.jpeg"
-  },
-  {
-    "name": "Лавандовий крем-брюле",
-    "ingredients": "Яєчний лікер, лікер білий шоколад, сироп лаванди, вершки",
-    "weight": 140,
-    "description": "це ніжний та ароматний злиток яєчного лікеру та лікеру білого шоколаду, підсолоджений сиропом лаванди. Вершки на вершині додають ніжності та завершують цей чарівний напій, який буде чудовим початком будь-якого ранку чи вечора.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/lavender_cream_brule Small.jpeg",
-    "picture": "photos/lavender_cream_brule Large.jpeg"
-  },
-  {
-    "name": "Bulldog Margarita",
-    "ingredients": "Срібна текіла, апельсиновий лікер, цукровий сироп, апельсиновий сік, фреш лайму, Corona Extra",
-    "weight": 520,
-    "description": "сміливе поєднання срібної текіли, апельсинового лікеру та цукрового сиропу, збагачене апельсиновим соком та свіжим фрешем лайму. Цей напій, завершений краплею Corona Extra, перетворюєся в експлозію фруктових та цитрусових смаків, яка подарує вам враження яскравого і неповторного літа.",
-    "price": 239,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/bulldog_margarita Small.jpeg",
-    "picture": "photos/bulldog_margarita Large.jpeg"
-  },
-  {
-    "name": "Adam and Eve",
-    "ingredients": "Білий ром, лікер зелений банан, сироп зелене яблуко, лимонний фреш",
-    "weight": 160,
-    "description": "авторський коктейль нашого бару, який поєднує у собі екзотику білого рому, глибину лікеру зеленого банана та свіжість лимонного фрешу. До цього таємничого міксу додається ніжність сиропу зеленого яблука, створюючи яскравий і неповторний смаковий досвід, що вражає",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/adam_n_eve Small.jpeg",
-    "picture": "photos/adam_n_eve Large.jpeg"
-  },
-  {
-    "name": "Bramble",
-    "ingredients": "Джин, лікер ожини, лимонний фреш, цукровий сироп",
-    "weight": 120,
-    "description": "цей коктейль — це справжня літня свіжість. Джин, лікер ожини та свіжий лимонний фреш взаємодіють у танці смаку, доповненому ніжністю цукрового сиропу. Кожен ковток — це подорож у світ освіження та аромату, яка робить цей напій ідеальним для весняно-літніх моментів.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/bramble Small.jpeg",
-    "picture": "photos/bramble Large.jpeg"
-  },
-  {
-    "name": "Espresso Martini",
-    "ingredients": "Ванільна горілка, кавовий лікер, цукровий сироп, еспресо",
-    "weight": 140,
-    "description": "ексклюзивне поєднання горілки, кавового лікеру, цукрового сиропу та якісного еспресо. Він об'єднує в собі витончений смак кави та легкість алкоголю, створюючи ідеальний напій для тих, хто цінує справжній аромат кавового мистецтва.",
-    "price": 129,
+    "description": "",
+    "price": 210,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
     "small_pic": "",
     "picture": ""
   },
   {
-    "name": "Old Fashion",
-    "ingredients": "Бурбон, тростинний цукор, бітер Ангостура, содова",
-    "weight": 50,
-    "description": "класика в новому виконанні. Витончений бурбон, тростинний цукор і бітер Ангостура об'єднують сили в цьому коктейлі, який переносить вас на стежку старовинного розкошу. Завершує цей витончений напій трошки содової, додаючи легкості кожному ковтку.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/old_fashion Small.jpeg",
-    "picture": "photos/old_fashion Large.jpeg"
-  },
-  {
-    "name": "Mary Pickford",
-    "ingredients": "Білий ром, лікер черешні, ананасовий сік, гранатовий сироп",
-    "weight": 160,
-    "description": "білий ром, який розцвітає у поєднанні з ароматним лікером черешні, свіжістю ананасового соку та екзотикою гранатового сиропу. Цей напій переносить вас прямо на сонячний пляж, завдяки своєму свіжому та фруктовому смаку.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/mary_pickford Small.jpeg",
-    "picture": "photos/mary_pickford Large.jpeg"
-  },
-  {
-    "name": "Тітонька Роберта",
-    "ingredients": "Абсент, горілка, лікер ожини, джин, бурбон",
-    "weight": 200,
-    "description": "це захоплююче поєднання абсенту, горілки, лікеру ожини, джину та бурбону. Цей напій вирізняється виразністю кожного компоненту, створюючи гармонійну і містичну палітру смаку, яка приваблює та заворожує.",
-    "price": 239,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/aunt_roberta Small.jpeg",
-    "picture": "photos/aunt_roberta Large.jpeg"
-  },
-  {
-    "name": "Flower Field",
-    "ingredients": "Горілка ванільна, лікер черешні, гіркий м`ятний лікер, сироп фіалки, сироп лаванди, лимонний фреш, Easy Foam",
-    "weight": 160,
-    "description": "ванільна горілка, що танцює з ароматним лікером черешні, а сиропи бузини та лаванди додають екзотичних нюансів. Завершує цей напій свіжість лимонного фрешу, створюючи смаковий бум для ваших смакових рецепторів.",
-    "price": 179,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/flower_field Small.jpeg",
-    "picture": "photos/flower_field Large.jpeg"
-  },
-  {
     "name": "Heartbreaker",
     "ingredients": "Ванільна горілка, лікер натурального йогурту, пюре ожини, кондитерські крема",
-    "weight": 180,
+    "weight": 160,
     "description": "Поєднання ніжного лікеру натурального йогурту та лікеру ожини, які танцюють зі смаком сезонного пюре. Завершують цей досконалий дует вершки, додаючи ніжності та оксамитової текстури кожному ковтку.",
-    "price": 179,
+    "price": 220,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
     "small_pic": "thumb-photos/heartbreaker Small.jpeg",
     "picture": "photos/heartbreaker Large.jpeg"
   },
   {
-    "name": "Welcome to Fidji",
-    "ingredients": "Кокосова горілка, ром манго-ананас, апельсиновий лікер, ананасовий сік, сироп кориці, фреш лайму.",
+    "name": "Green Alyona",
+    "ingredients": "Джин, лікер зелений банан, сироп огірка, ківі, лимонний фреш, Easy Foam",
+    "weight": 150,
+    "description": "Ігристий джин, який взаємодіє з екзотичним лікером зеленого банана та прохолодним сиропом огірка. Додайте до цього свіжість ківі та виразний лимонний фреш, і ви отримаєте неповторний напій, який тішить смакові рецептори своєю ароматною композицією.",
+    "price": 190,
+    "group": "КОКТЕЙЛІ",
+    "category": "cocktails",
+    "small_pic": "thumb-photos/green_alyona Small.jpeg",
+    "picture": "photos/green_alyona Large.jpeg"
+  },
+  {
+    "name": "Gin&Tonic",
+    "ingredients": "",
+    "weight": 160,
+    "description": "",
+    "price": 140,
+    "group": "КОКТЕЙЛІ",
+    "category": "cocktails",
+    "small_pic": "",
+    "picture": ""
+  },
+  {
+    "name": "Bloody Mary",
+    "ingredients": "",
     "weight": 180,
     "description": "",
-    "price": 179,
+    "price": 180,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "thumb-photos/mai_tai18 Small.jpeg",
-    "picture": "photos/mai_tai18 Large.jpeg"
-  },
-  {
-    "name": "Pisco Sour",
-    "ingredients": "Піско, лимонний фреш, цукровий сироп, Easy Foam",
-    "weight": 130,
-    "description": "Це бездоганний піско, який розкриває свою легкість під час зустрічі з освіжаючим лимонним фрешем. Додається ніжний цукровий сироп, створюючи гармонійний баланс між кислинкою та сладеньким, ідеальний для освіження в спекотний день.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/pisco_sour Small.jpeg",
-    "picture": "photos/pisco_sour Large.jpeg"
-  },
-  {
-    "name": "Whisky сауер",
-    "ingredients": "Віскі, цукровий сироп, лимонний фреш, Easy Foam",
-    "weight": 100,
-    "description": "Сауери — це витончена колекція коктейлів, які завдяки цукровому сиропу і свіжому лимонному фрешу отримали новий рівень смаку. В кожному глеку об'єднані стійкі алкогольні бази з додатковою глибиною, яку надає цей вигаданий дует. Відчуйте насиченість смаку та аромату в кожному ковтку, де класика поєднується з теплим привкусом інновацій.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/all_sours Small.jpeg",
-    "picture": "photos/all_sours Large.jpeg"
-  },
-  {
-    "name": "Tequila сауер",
-    "ingredients": "Текіла срібна, цукровий сироп, лимонний фреш, Easy Foam",
-    "weight": 100,
-    "description": "Сауери — це витончена колекція коктейлів, які завдяки цукровому сиропу і свіжому лимонному фрешу отримали новий рівень смаку. В кожному глеку об'єднані стійкі алкогольні бази з додатковою глибиною, яку надає цей вигаданий дует. Відчуйте насиченість смаку та аромату в кожному ковтку, де класика поєднується з теплим привкусом інновацій.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/all_sours Small.jpeg",
-    "picture": "photos/all_sours Large.jpeg"
-  },
-  {
-    "name": "Gin сауер",
-    "ingredients": "Джин, цукровий сироп, лимонний фреш, Easy Foam",
-    "weight": 100,
-    "description": "Сауери — це витончена колекція коктейлів, які завдяки цукровому сиропу і свіжому лимонному фрешу отримали новий рівень смаку. В кожному глеку об'єднані стійкі алкогольні бази з додатковою глибиною, яку надає цей вигаданий дует. Відчуйте насиченість смаку та аромату в кожному ковтку, де класика поєднується з теплим привкусом інновацій.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/all_sours Small.jpeg",
-    "picture": "photos/all_sours Large.jpeg"
-  },
-  {
-    "name": "CONTINENTAL сауер",
-    "ingredients": "Віскі, червоний портвейн, цукровий сироп, лимонний фреш, Easy Foam",
-    "weight": 120,
-    "description": "Сауери — це витончена колекція коктейлів, які завдяки цукровому сиропу і свіжому лимонному фрешу отримали новий рівень смаку. В кожному глеку об'єднані стійкі алкогольні бази з додатковою глибиною, яку надає цей вигаданий дует. Відчуйте насиченість смаку та аромату в кожному ковтку, де класика поєднується з теплим привкусом інновацій.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/all_sours Small.jpeg",
-    "picture": "photos/all_sours Large.jpeg"
-  },
-  {
-    "name": "New York сауер",
-    "ingredients": "Віскі, вино червоне сухе, цукровий сироп, лимонний фреш, Easy Foam",
-    "weight": 120,
-    "description": "Сауери — це витончена колекція коктейлів, які завдяки цукровому сиропу і свіжому лимонному фрешу отримали новий рівень смаку. В кожному глеку об'єднані стійкі алкогольні бази з додатковою глибиною, яку надає цей вигаданий дует. Відчуйте насиченість смаку та аромату в кожному ковтку, де класика поєднується з теплим привкусом інновацій.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/all_sours Small.jpeg",
-    "picture": "photos/all_sours Large.jpeg"
-  },
-  {
-    "name": "Jäger сауер",
-    "ingredients": "Jägermeister, апельсиновий сік, цукровий сироп, лимонний фреш, Easy Foam, кориця",
-    "weight": 130,
-    "description": "Сауери — це витончена колекція коктейлів, які завдяки цукровому сиропу і свіжому лимонному фрешу отримали новий рівень смаку. В кожному глеку об'єднані стійкі алкогольні бази з додатковою глибиною, яку надає цей вигаданий дует. Відчуйте насиченість смаку та аромату в кожному ковтку, де класика поєднується з теплим привкусом інновацій.",
-    "price": 129,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/all_sours Small.jpeg",
-    "picture": "photos/all_sours Large.jpeg"
-  },
-  {
-    "name": "Grasshopper",
-    "ingredients": "Лікер какао прозорий, м'ятний лікер, вершки",
-    "weight": 140,
-    "description": "класика, яка заворожує своїм елегантним смаком. Зігрівайте свої смакові рецептори із прозорим лікером какао, додайте легкість м'ятного лікеру та завершіть цю майстерність вершками. Його ніжна кремовість і приємна м'ятна свіжість роблять кожен ковток неповторним.",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/grasshopper Small.jpeg",
-    "picture": "photos/grasshopper Large.jpeg"
-  },
-  {
-    "name": "Paper Plane",
-    "ingredients": "Віскі, інфьюз Campari кофе, Gruppo Montenegro Amaro, апельсиновий фреш",
-    "weight": 110,
-    "description": "зухвалий тандем віскі, аперитивного лікеру та Gruppo Montenegro Amaro, які об'єднуються з освіжаючим лимонним фрешем. Цей напій — справжній баланс смаку та аромату, який створює атмосферу неперевершеного вечора в стилі класичного аперитиву.",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/paper_plane Small.jpeg",
-    "picture": "photos/paper_plane Large.jpeg"
-  },
-  {
-    "name": "Саусайд",
-    "ingredients": "Джин, м'ята, сезонне пюре, лимонний фреш",
-    "weight": 130,
-    "description": "це освіжаючий зливок джину, доповнений витонченою м'ятою та ароматним сезонним пюре. Легкість літа виражена в кожному ковтку, підкріпленому лимонним фрешем, роблячи цей напій ідеальним вибором для теплих та свіжих літніх моментів.",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/suicide Small.jpeg",
-    "picture": "photos/suicide Large.jpeg"
-  },
-  {
-    "name": "Бульвардьє",
-    "ingredients": "Віскі, настоянка гірка, вермут червоний гіркий",
-    "weight": 90,
-    "description": "в цьому елітному коктейлі об'єднуються сила віскі, насиченість настоянки гірка та вишуканість вермуту червоного гіркого. Його характерні гіркі та ароматні відтінки створюють справжню симфонію для гурманів, які цінують витончений смак і вражаючу глибину аромату.",
-    "price": 149,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "thumb-photos/boulevardier Small.jpeg",
-    "picture": "photos/boulevardier Large.jpeg"
-  },
-  {
-    "name": "Ковбаски гриль з картопляними діпами",
-    "price": 159,
-    "weight": 280,
-    "description": "Наші Ковбаски на грилі з картопельними дипами - це вираз смачної, поживної та аутентичної української кухні. Вони надають ностальгічні відчуття та пропонують найкращі смакові комбінації. Радимо представити цю смачну можливість для вашого смаку.",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "photos/kovbaski Large.jpeg",
-    "small_pic": "thumb-photos/kovbaski Small.jpeg"
-  },
-  {
-    "name": "Шніцель",
-    "price": 170,
-    "weight": 420,
-    "description": "",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "",
-    "small_pic": ""
-  },
-  {
-    "name": "Бургер с картоплей фрі",
-    "price": 220,
-    "weight": 450,
-    "description": "",
-    "group": "БУРГЕРИ",
-    "category": "kitchen",
-    "picture": "",
-    "small_pic": ""
-  },
-  {
-    "name": "Чікен-Бургер с картоплей фрі",
-    "price": 210,
-    "weight": 390,
-    "description": "",
-    "group": "БУРГЕРИ",
-    "category": "kitchen",
-    "picture": "",
-    "small_pic": ""
-  },
-  {
-    "name": "Куряче філе під сирною шапкою",
-    "price": 126,
-    "weight": 220,
-    "description": "Ця страва вражає поєднанням смаків. Куряче філе є ніжним та соковитим, а сирна шапка надає їй гармонічного смаку. Гарнір з помідорів та грибів у вершковому соусі додає аромат та абсолютно смачний додаток до страви.",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "photos/chicken_cheese Large.jpeg",
-    "small_pic": "thumb-photos/chicken_cheese Medium.jpeg"
-  },
-  {
-    "name": "Паста карбонара",
-    "price": 138,
-    "weight": 250,
-    "description": "Це блюдо вражає поєднанням ніжної текстури пасти та багатого смаку, який приносять гриби. Наша Паста карбонара - це ідеальний вибір для шанувальників італійської кухні та тих, хто бажає смачно насолодитися їжею.",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "photos/karbonara Large.jpeg",
-    "small_pic": "thumb-photos/karbonara Medium.jpeg"
-  },
-  {
-    "name": "Салат Цезар",
-    "price": 182,
-    "weight": 200,
-    "description": "Цей салат - це ідеальний вибір для тих, хто цінує класичний смак та бажає насолодитися багатим смаковим досвідом. Наш Салат \"Цезарь\" завжди готовий подарувати вам справжню кулінарну радість.",
-    "group": "САЛАТИ",
-    "category": "kitchen",
-    "picture": "photos/cezar Large.jpeg",
-    "small_pic": "thumb-photos/cezar Medium.jpeg"
-  },
-  {
-    "name": "Салат з Лососем",
-    "price": 199,
-    "weight": 210,
-    "description": "Цей салат - це ідеальний вибір для тих, хто цінує найкращі смаки морських продуктів та свіжих овочів",
-    "group": "САЛАТИ",
-    "category": "kitchen",
-    "picture": "photos/salmon_salad Large.jpeg",
-    "small_pic": "thumb-photos/salmon_salad Medium.jpeg"
-  },
-  {
-    "name": "Салат з Тигровою креветкою",
-    "price": 219,
-    "weight": 250,
-    "description": "Салат  з тигровими креветками - це справжнє гастрономічне подорожжя до тропічних островів. Цей салат дарує вам відчуття свіжості морського бризу та смакового розкішного виду. Нам приємно представити цей кулінарний шедевр нашим гостям.",
-    "group": "САЛАТИ",
-    "category": "kitchen",
-    "picture": "photos/sald-krevetka Large.jpeg",
-    "small_pic": "thumb-photos/sald-krevetka Medium.jpeg"
-  },
-  {
-    "name": "Бастурма",
-    "price": 104,
-    "weight": 80,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
+    "small_pic": "",
     "picture": ""
   },
   {
-    "name": "Вялені свинячі слайси",
-    "price": 97,
-    "weight": 80,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Картопля фрі",
-    "price": 76,
-    "weight": 130,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Батат з сирним соусом",
-    "price": 120,
-    "weight": 150,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Кільця кальмара",
-    "price": 146,
-    "weight": 150,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Креветка гостра до пива",
-    "price": 139,
-    "weight": 180,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Курячі нагетси",
-    "price": 86,
-    "weight": 200,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Сирне плато",
-    "price": 145,
-    "weight": 180,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Сирні кульки",
-    "price": 96,
-    "weight": 150,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Фісташки",
-    "price": 88,
-    "weight": 80,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Цибулеві кільця",
-    "price": 62,
-    "weight": 150,
-    "description": "",
-    "group": "ЗАКУСКИ",
-    "category": "kitchen",
-    "picture": ""
-  },
-  {
-    "name": "Пухлина мозку",
-    "weight": "60 мл",
-    "price": "99 грн",
+    "name": "Jagerbomb",
+    "weight": "360 мл",
+    "price": "250",
     "group": "ШОТИ",
     "category": "cocktails"
   },
   {
-    "name": "Світлофор",
+    "name": "B-52",
     "weight": "60 мл",
-    "price": "99 грн",
+    "price": "100 грн",
     "group": "ШОТИ",
     "category": "cocktails"
   },
   {
-    "name": "Хіросіма",
+    "name": "B-53",
     "weight": "60 мл",
-    "price": "99 грн",
+    "price": "100 грн",
     "group": "ШОТИ",
     "category": "cocktails"
   },
   {
     "name": "Дядя Ваня",
     "weight": "60 мл",
-    "price": "99 грн",
+    "price": "100 грн",
     "group": "ШОТИ",
     "category": "cocktails"
   },
   {
-    "name": "Б-52",
+    "name": "Мексиканець",
     "weight": "60 мл",
-    "price": "99 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Б-53",
-    "weight": "60 мл",
-    "price": "99 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Зелений мексиканець",
-    "weight": "60 мл",
-    "price": "99 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Flaming Dr. Pepper",
-    "weight": "200 мл",
-    "price": "129 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Bubble gum",
-    "weight": "2 по 60 мл",
-    "price": "139 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Dirty girl",
-    "weight": "3 по 60 мл",
-    "price": "189 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Хмари",
-    "weight": "60 мл",
-    "price": "99 грн",
+    "price": "100 грн",
     "group": "ШОТИ",
     "category": "cocktails"
   },
   {
     "name": "Текіла Бум",
     "weight": "100 мл",
-    "price": "99 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Jägerbomb",
-    "weight": "3 по 120 мл",
-    "price": "189 грн",
-    "group": "ШОТИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Bushmills Original",
-    "weight": "50 мл",
-    "price": "82 грн",
-    "group": "ВІСКІ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Bushmills Black",
-    "weight": "50 мл",
     "price": "120 грн",
-    "group": "ВІСКІ",
+    "group": "ШОТИ",
     "category": "cocktails"
   },
   {
-    "name": "Glen Turner Heritage",
+    "name": "Хіросіма",
+    "weight": "60 мл",
+    "price": "100 грн",
+    "group": "ШОТИ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Jim Beam Bourbon",
     "weight": "50 мл",
-    "price": "98 грн",
-    "group": "ВІСКІ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Wild Turkey 101 Bourbon",
-    "weight": "50 мл",
-    "price": "101 грн",
-    "group": "ВІСКІ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Jamesson Irish",
-    "weight": "50 мл",
-    "price": "91 грн",
-    "group": "ВІСКІ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Jack Daniels old№7",
-    "weight": "50 мл",
-    "price": "85 грн",
-    "group": "ВІСКІ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Jack Daniels apple/honey",
-    "weight": "50 мл90 грн",
-    "price": "90",
-    "group": "ВІСКІ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Johnnie Walker Red Label",
-    "weight": "50 мл",
-    "price": "82 грн",
+    "price": "100 грн",
     "group": "ВІСКІ",
     "category": "cocktails"
   },
   {
     "name": "Ballantines Finest",
     "weight": "50 мл",
-    "price": "71 грн",
+    "price": "90 грн",
     "group": "ВІСКІ",
     "category": "cocktails"
   },
   {
-    "name": "Johnnie Walker Green label 15 y.o.",
+    "name": "Johny Walker Red Label",
     "weight": "50 мл",
-    "price": "340 грн",
+    "price": "90 грн",
     "group": "ВІСКІ",
     "category": "cocktails"
   },
   {
-    "name": "Bacardi Spiced",
+    "name": "Bushmills Original",
     "weight": "50 мл",
-    "price": "72 грн",
+    "price": "130 грн",
+    "group": "ВІСКІ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Jack Daniels",
+    "weight": "50 мл",
+    "price": "120 грн",
+    "group": "ВІСКІ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Jack Daniels Apple",
+    "weight": "50 мл",
+    "price": "120 грн",
+    "group": "ВІСКІ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Jack Daniels Honey",
+    "weight": "50 мл",
+    "price": "120 грн",
+    "group": "ВІСКІ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Jameson",
+    "weight": "50 мл",
+    "price": "115 грн",
+    "group": "ВІСКІ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Metaxa",
+    "weight": "50 мл",
+    "price": "90 грн",
+    "group": "БРЕНДІ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Асканелі 3*",
+    "weight": "100 мл",
+    "price": "75 грн",
+    "group": "БРЕНДІ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Bacardi Oakheart",
+    "weight": "50 мл",
+    "price": "60 грн",
     "group": "РОМ",
     "category": "cocktails"
   },
   {
-    "name": "Bacardi Carta Negra",
+    "name": "Captain Morgan Spiced",
     "weight": "50 мл",
-    "price": "70 грн",
-    "group": "РОМ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Captain Morgan Spiced Gold",
-    "weight": "50 мл",
-    "price": "54 грн",
-    "group": "РОМ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Captain Morgan Tiki",
-    "weight": "50 мл",
-    "price": "54 грн",
-    "group": "РОМ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Captain Morgan Black Spiced",
-    "weight": "50 мл",
-    "price": "68 грн",
+    "price": "80 грн",
     "group": "РОМ",
     "category": "cocktails"
   },
   {
     "name": "Captain Morgan Dark",
     "weight": "50 мл",
-    "price": "54 грн",
+    "price": "80 грн",
     "group": "РОМ",
     "category": "cocktails"
   },
   {
-    "name": "Plantation O.F.T.D. 69%",
+    "name": "Captain Morgan Tiki",
     "weight": "50 мл",
-    "price": "102 грн",
+    "price": "80 грн",
     "group": "РОМ",
     "category": "cocktails"
   },
   {
-    "name": "Plantation Blanco 3 Star",
+    "name": "Absolut Citrus",
     "weight": "50 мл",
-    "price": "81 грн",
-    "group": "РОМ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Plantation Original Dark",
-    "weight": "50 мл",
-    "price": "81 грн",
-    "group": "РОМ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Plantation Pineapple",
-    "weight": "50 мл",
-    "price": "140 грн",
-    "group": "РОМ",
-    "category": "cocktails"
-  },
-  {
-    "name": "KRAKEN Black Spiced",
-    "weight": "50 мл",
-    "price": "110 грн",
-    "group": "РОМ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Nemiroff Штоф оригінал",
-    "weight": "50 мл",
-    "price": "32 грн",
-    "group": "ГОРІЛКА",
-    "category": "cocktails"
-  },
-  {
-    "name": "Nemiroff Delikat",
-    "weight": "50 мл",
-    "price": "35 грн",
+    "price": "80 грн",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
@@ -888,541 +521,540 @@
     "category": "cocktails"
   },
   {
-    "name": "Finlandia грейпфрут",
+    "name": "Finlandia Redberry",
     "weight": "50 мл",
     "price": "65 грн",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
   {
-    "name": "Stoli",
+    "name": "Stoli Salted Caramel",
     "weight": "50 мл",
-    "price": "59 грн",
+    "price": "70 грн",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
   {
-    "name": "Stoli солона карамель",
+    "name": "Nemiroff оригінал",
     "weight": "50 мл",
-    "price": "59 грн",
+    "price": "40 грн",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
   {
-    "name": "Stoli ванільна",
+    "name": "Nemiroff Делікат",
     "weight": "50 мл",
-    "price": "59 грн",
+    "price": "40 грн",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
   {
-    "name": "Barsol Pisco",
+    "name": "Beefeater",
     "weight": "50 мл",
-    "price": "140 грн",
+    "price": "40 грн",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
   {
-    "name": "Jose Cuervo Especial silver",
+    "name": "Don Diego silver",
     "weight": "50 мл",
-    "price": "68 грн",
+    "price": "70 грн",
     "group": "ТЕКІЛА",
     "category": "cocktails"
   },
   {
-    "name": "Jose Cuervo Especial reposado",
+    "name": "Olmeca silver",
     "weight": "50 мл",
-    "price": "74 грн",
+    "price": "110 грн",
     "group": "ТЕКІЛА",
     "category": "cocktails"
   },
   {
-    "name": "Tanqueray London Dry Gin",
-    "weight": "50 мл",
-    "price": "81 грн",
-    "group": "ДЖИН",
-    "category": "cocktails"
-  },
-  {
-    "name": "Whitley Neill",
+    "name": "Beefeater",
     "weight": "50 мл",
     "price": "100 грн",
     "group": "ДЖИН",
     "category": "cocktails"
   },
   {
-    "name": "Bombay Sapphire",
-    "weight": "50 мл",
-    "price": "85 грн",
-    "group": "ДЖИН",
-    "category": "cocktails"
-  },
-  {
-    "name": "Beefeater",
-    "weight": "50 мл",
-    "price": "78 грн",
-    "group": "ДЖИН",
-    "category": "cocktails"
-  },
-  {
-    "name": "Фірмова настоянка в асортименті",
-    "weight": "50 мл",
-    "price": "37 грн",
-    "group": "НАСТОЯНКИ ТА ЛІКЕРИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Jägermeister",
-    "weight": "50 мл",
-    "price": "56 грн",
-    "group": "НАСТОЯНКИ ТА ЛІКЕРИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Gruppo Montenegro Amaro",
-    "weight": "50 мл",
-    "price": "83 грн",
-    "group": "НАСТОЯНКИ ТА ЛІКЕРИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Xenta Absenta",
+    "name": "Beefeater Pink",
     "weight": "50 мл",
     "price": "110 грн",
-    "group": "НАСТОЯНКИ ТА ЛІКЕРИ",
+    "group": "ДЖИН",
     "category": "cocktails"
   },
   {
-    "name": "Sambuca Teodoro Negro",
+    "name": "Bombay Sapphire",
     "weight": "50 мл",
-    "price": "58 грн",
+    "price": "120 грн",
+    "group": "ДЖИН",
+    "category": "cocktails"
+  },
+  {
+    "name": "Фірмова настоянка",
+    "weight": "50 мл",
+    "price": "50 грн",
     "group": "НАСТОЯНКИ ТА ЛІКЕРИ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Carlsberg",
-    "weight": "500 мл",
-    "price": "62 грн",
-    "group": "ПИВО",
-    "category": "cocktails"
-  },
-  {
-    "name": "Carlsberg",
-    "weight": "300 мл",
-    "price": "45 грн",
-    "group": "ПИВО",
-    "category": "cocktails"
-  },
-  {
-    "name": "Дункель",
-    "weight": "500 мл",
-    "price": "60 грн",
-    "group": "ПИВО",
     "category": "cocktails"
   },
   {
     "name": "Corona Extra",
     "weight": "330 мл",
-    "price": "82 грн",
+    "price": "100 грн",
     "group": "ПИВО",
     "category": "cocktails"
   },
   {
-    "name": "Гіннес",
-    "weight": "440 мл",
-    "price": "164 грн",
-    "group": "ПИВО",
-    "category": "cocktails"
-  },
-  {
-    "name": "Грімберген Бланш/Блонд/Амбрі",
+    "name": "Carlsberg 0,33",
     "weight": "330 мл",
-    "price": "89 грн",
+    "price": "50 грн",
     "group": "ПИВО",
     "category": "cocktails"
   },
   {
-    "name": "Пиво б/а в асортименті",
+    "name": "Carlsberg 0,5",
+    "weight": "330 мл",
+    "price": "70 грн",
+    "group": "ПИВО",
+    "category": "cocktails"
+  },
+  {
+    "name": "Carlsberg безалкогольне 0,5",
     "weight": "500 мл",
-    "price": "62 грн",
+    "price": "65 грн",
     "group": "ПИВО",
     "category": "cocktails"
   },
   {
-    "name": "Еспресо",
-    "weight": "",
-    "price": "32 грн",
-    "group": "КАВА ТА ЧАЙ",
+    "name": "Kronenbourg Blanc 0,33",
+    "weight": "330 мл",
+    "price": "60 грн",
+    "group": "ПИВО",
     "category": "cocktails"
   },
   {
-    "name": "Допіо",
-    "weight": "",
-    "price": "46 грн",
-    "group": "КАВА ТА ЧАЙ",
+    "name": "Kronenbourg Blanc 0,5",
+    "weight": "330 мл",
+    "price": "80 грн",
+    "group": "ПИВО",
+    "category": "cocktails"
+  },
+  {
+    "name": "Львівське Різдвяне",
+    "weight": "500 мл",
+    "price": "70 грн",
+    "group": "ПИВО",
+    "category": "cocktails"
+  },
+  {
+    "name": "Grimbergen Double Ambree",
+    "weight": "500 мл",
+    "price": "130 грн",
+    "group": "ПИВО",
     "category": "cocktails"
   },
   {
     "name": "Американо",
-    "weight": "",
-    "price": "32 грн",
-    "group": "КАВА ТА ЧАЙ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Капучіно",
-    "weight": "",
-    "price": "32 грн",
-    "group": "КАВА ТА ЧАЙ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Лате",
-    "weight": "",
+    "weight": "90 мл",
     "price": "35 грн",
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
   {
-    "name": "Кава джміль",
-    "weight": "",
-    "price": "43 грн",
+    "name": "Еспресо",
+    "weight": "30 мл",
+    "price": "35 грн",
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
   {
-    "name": "Чай марокканський",
-    "weight": "",
-    "price": "60 грн",
+    "name": "Капучино",
+    "weight": "120 мл",
+    "price": "40 грн",
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
   {
     "name": "Чай в асортименті",
-    "weight": "",
-    "price": "42 грн",
+    "weight": "500 мл",
+    "price": "45 грн",
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
   {
-    "name": "Безалкогольні коктейлі в асортименті (Aperol Spritz, Pina Colada)",
-    "weight": "200 мл",
-    "price": "101 грн",
+    "name": "Лимонад в асортименті",
+    "weight": "300 мл",
+    "price": "60 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Burn",
+    "weight": "250 мл",
+    "price": "70 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Borjomi",
+    "weight": "500 мл",
+    "price": "110 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Cola/ cola zero",
+    "weight": "330 мл",
+    "price": "40 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Fanta",
+    "weight": "330 мл",
+    "price": "40 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Sprite",
+    "weight": "330 мл",
+    "price": "40 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Schweppes",
+    "weight": "330 мл",
+    "price": "40 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Natakhtari",
+    "weight": "500 мл",
+    "price": "70 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Red bull",
+    "weight": "250 мл",
+    "price": "80 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Моршинська Вода газована",
+    "weight": "500 мл",
+    "price": "30 грн",
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Моршинська Вода негазована",
+    "weight": "500 мл",
+    "price": "30 грн",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Сік в асортименті",
     "weight": "250 мл",
-    "price": "28 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Coca-Cola",
-    "weight": "330 мл",
-    "price": "35 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Schweppes Tonic",
-    "weight": "330 мл",
-    "price": "45 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Вода моршинська",
-    "weight": "500 мл",
-    "price": "24 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Battery Energy",
-    "weight": "330 мл",
-    "price": "45 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Лимонад Vanilla",
-    "weight": "150 мл",
-    "price": "65 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Лимонад ягідний",
-    "weight": "150 мл",
-    "price": "65 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Лимонад Classic",
-    "weight": "150 мл",
-    "price": "65 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Лимонад журавлина ",
-    "weight": "150 мл",
-    "price": "65 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Лимонад обліпиха-апельсин",
-    "weight": "150 мл",
-    "price": "65 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Мохіто б/а",
-    "weight": "250 мл",
-    "price": "70 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Sprite",
-    "weight": "500 мл",
-    "price": "38 грн",
-    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
-    "category": "cocktails"
-  },
-  {
-    "name": "Кальян",
-    "weight": "",
-    "price": "270 грн",
-    "group": "Кальян під настрій",
-    "category": "kalik"
-  },
-  {
-    "name": "Mc Peterson Chardonnay сухе",
-    "weight": "50 мл",
-    "price": "37 грн",
-    "group": "БІЛЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Le Coursier Blanc нап/солодке",
-    "weight": "50 мл",
-    "price": "33 грн",
-    "group": "БІЛЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Canti Pinot Grigio Veneto сухе",
-    "weight": "50 мл",
     "price": "40 грн",
-    "group": "БІЛЕ",
-    "category": "wine"
+    "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
+    "category": "cocktails"
   },
   {
-    "name": "Villa Wolf Riesling нап/солодке",
-    "weight": "50 мл",
-    "price": "46 грн",
-    "group": "БІЛЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Saint Clair Sauvignon Blanc Marlborough Sun сухе",
-    "weight": "50 мл",
-    "price": "67 грн",
-    "group": "БІЛЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Saint Clair Sauvignon Rose Marlborough Sun сухе",
-    "weight": "50 мл",
-    "price": "60 грн",
-    "group": "БІЛЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Marlborough Sun Merlot сухе",
-    "weight": "50 мл",
-    "price": "65 грн",
-    "group": "ЧЕРВОНЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Le Coursier Rouge нап/солодке",
-    "weight": "50 мл",
-    "price": "33 грн",
-    "group": "ЧЕРВОНЕ",
-    "category": "wine"
-  },
-  {
-    "name": "TOSO Piemonte Barbera сухе",
-    "weight": "50 мл",
-    "price": "36 грн",
-    "group": "ЧЕРВОНЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Canti Merlot Veneto нап/солодке",
-    "weight": "50 мл",
-    "price": "37 грн",
-    "group": "ЧЕРВОНЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Mc Peterson Shiraz сухе",
-    "weight": "50 мл",
-    "price": "37 грн",
-    "group": "ЧЕРВОНЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Porto SANDEMAN портвейн червоний",
-    "weight": "50 мл",
-    "price": "66 грн",
-    "group": "ЧЕРВОНЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Porto SANDEMAN портвейн білий",
-    "weight": "50 мл",
-    "price": "70 грн",
-    "group": "БІЛЕ",
-    "category": "wine"
-  },
-  {
-    "name": "Martini Rosso",
-    "weight": "50 мл",
-    "price": "38 грн",
-    "group": "ВЕРМУТИ",
-    "category": "wine"
-  },
-  {
-    "name": "Martini Extra Dry",
-    "weight": "50 мл",
-    "price": "38 грн",
-    "group": "ВЕРМУТИ",
-    "category": "wine"
-  },
-  {
-    "name": "Martini Fiero",
-    "weight": "50 мл",
-    "price": "38 грн",
-    "group": "ВЕРМУТИ",
-    "category": "wine"
-  },
-  {
-    "name": "Martini Bianco",
-    "weight": "50 мл",
-    "price": "38 грн",
-    "group": "ВЕРМУТИ",
-    "category": "wine"
-  },
-  {
-    "name": "Prosecco",
+    "name": "Martini Asti",
     "weight": "750 мл",
-    "price": "560 грн",
+    "price": "800 грн",
     "group": "ІГРИСТЕ",
     "category": "wine"
   },
   {
-    "name": "Bolgrad Brut",
+    "name": "Martini Prosecco",
     "weight": "750 мл",
-    "price": "241 грн",
+    "price": "800 грн",
     "group": "ІГРИСТЕ",
     "category": "wine"
   },
   {
-    "name": "Ararat Apricot",
-    "weight": "50 мл",
-    "price": "96 грн",
-    "group": "БРЕНДІ",
-    "category": "cocktails"
+    "name": "Martini Rose",
+    "weight": "750 мл",
+    "price": "800 грн",
+    "group": "ІГРИСТЕ",
+    "category": "wine"
   },
   {
-    "name": "Metaxa",
-    "weight": "50 мл",
-    "price": "80 грн",
-    "group": "БРЕНДІ",
-    "category": "cocktails"
+    "name": "Martini Brut",
+    "weight": "750 мл",
+    "price": "800 грн",
+    "group": "ІГРИСТЕ",
+    "category": "wine"
   },
   {
-    "name": "Асканелі 3 y.o.",
-    "weight": "50 мл",
-    "price": "59 грн",
-    "group": "БРЕНДІ",
-    "category": "cocktails"
+    "name": "Leleka Brut",
+    "weight": "750 мл",
+    "price": "500 грн",
+    "group": "ІГРИСТЕ",
+    "category": "wine"
   },
   {
-    "name": "Асканелі 4 y.o.",
-    "weight": "50 мл",
-    "price": "65 грн",
-    "group": "БРЕНДІ",
-    "category": "cocktails"
+    "name": "Leleka Semi-sweet",
+    "weight": "750 мл",
+    "price": "500 грн",
+    "group": "ІГРИСТЕ",
+    "category": "wine"
   },
   {
-    "name": "Кальвадос",
-    "weight": "50 мл",
-    "price": "99 грн",
-    "group": "БРЕНДІ",
-    "category": "cocktails"
+    "name": "Leleka Semi-dry",
+    "weight": "750 мл",
+    "price": "500 грн",
+    "group": "ІГРИСТЕ",
+    "category": "wine"
   },
   {
-    "name": "Hennessy V.S.",
-    "weight": "50 мл",
-    "price": "172 грн",
-    "group": "КОНЬЯК",
-    "category": "cocktails"
+    "name": "GUFO Merlot",
+    "weight": "150 мл",
+    "price": "120 грн",
+    "group": "ТИХЕ ВИНО",
+    "category": "wine"
   },
   {
-    "name": "Солодкий чилі",
-    "weight": "50",
-    "price": "20",
-    "group": "СОУСИ",
-    "category": "kitchen"
+    "name": "GUFO Pinot Grigio",
+    "weight": "150 мл",
+    "price": "120 грн",
+    "group": "ТИХЕ ВИНО",
+    "category": "wine"
+  },
+  {
+    "name": "Сирне плато",
+    "price": 200,
+    "weight": 220,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "small_pic": "thumb-photos/cheese_ship Small.jpeg",
+    "picture": "photos/cheese_ship Large.jpeg"
+  },
+  {
+    "name": "Асорті закусок",
+    "price": 220,
+    "weight": 220,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "small_pic": "thumb-photos/meat_ship Small.jpeg",
+    "picture": "photos/meat_ship Large.jpeg"
+  },
+  {
+    "name": "Фісташки",
+    "price": 100,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Арахіс солоний",
+    "price": 70,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Сухарики часникові",
+    "price": 90,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Кальмар по-шанхайські",
+    "price": 110,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Бастурма",
+    "price": 120,
+    "weight": 80,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Кабаноси",
+    "price": 90,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Ікряники",
+    "price": 90,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Начос з сирним соусом",
+    "price": 80,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Асорті гарячих закусок",
+    "price": 250,
+    "weight": 320,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Сирні кульки",
+    "price": 120,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Моцарела в клярі",
+    "price": 120,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Нагетси",
+    "price": 140,
+    "weight": 200,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Цибулеві кільця",
+    "price": 90,
+    "weight": 150,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Креветки панко",
+    "price": 200,
+    "weight": 140,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "small_pic": "thumb-photos/panko_shrimps_Sm.jpeg",
+    "picture": "photos/panko_shrimps.jpeg"
+  },
+  {
+    "name": "Картопля фрі",
+    "price": 80,
+    "weight": 150,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Картопляні діпи",
+    "price": 100,
+    "weight": 150,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Картопля по-селянські",
+    "price": 90,
+    "weight": 150,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
   },
   {
     "name": "Кетчуп",
-    "weight": "50",
-    "price": "20",
-    "group": "СОУСИ",
-    "category": "kitchen"
-  },
-  {
-    "name": "Часниковий",
-    "weight": "50",
-    "price": "20",
-    "group": "СОУСИ",
-    "category": "kitchen"
-  },
-  {
-    "name": "Брусничний",
-    "weight": "50",
-    "price": "20",
+    "weight": "50 мл",
+    "price": "20 грн",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Сирний",
-    "weight": "50",
-    "price": "20",
+    "weight": "50 мл",
+    "price": "20 грн",
+    "group": "СОУСИ",
+    "category": "kitchen"
+  },
+  {
+    "name": "Часниковий",
+    "weight": "50 мл",
+    "price": "20 грн",
+    "group": "СОУСИ",
+    "category": "kitchen"
+  },
+  {
+    "name": "Тар-тар",
+    "weight": "50 мл",
+    "price": "20 грн",
+    "group": "СОУСИ",
+    "category": "kitchen"
+  },
+  {
+    "name": "Брусничний",
+    "weight": "50 мл",
+    "price": "20 грн",
+    "group": "СОУСИ",
+    "category": "kitchen"
+  },
+  {
+    "name": "Вершковий",
+    "weight": "50 мл",
+    "price": "20 грн",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
     "name": "Теріякі",
-    "weight": "50",
-    "price": "20",
+    "weight": "50 мл",
+    "price": "20 грн",
     "group": "СОУСИ",
     "category": "kitchen"
   },
   {
-    "name": "Гострий Кімчі",
-    "weight": "50",
-    "price": "25",
+    "name": "Гострий чилі",
+    "weight": "50 мл",
+    "price": "20 грн",
     "group": "СОУСИ",
     "category": "kitchen"
   }

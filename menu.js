@@ -116,7 +116,14 @@ function createGramsElement(itemData) {
     const grams = document.createElement("small");
     if (itemData.weight) {
         grams.classList.add("text-muted");
-        grams.innerHTML = `<i class="fa fa-balance-scale"></i> ${itemData.weight}г`;
+        console.log(typeof itemData.weight)
+        if (typeof itemData.weight == 'number') {
+            grams.innerHTML = `<i class="fa fa-balance-scale"></i> ${itemData.weight}г`;
+        } else if (itemData.weight.includes('г') || itemData.weight.includes('мл')) {
+            grams.innerHTML = `<i class="fa fa-balance-scale"></i> ${itemData.weight}`;
+        } else {
+            grams.innerHTML = `<i class="fa fa-balance-scale"></i> ${itemData.weight}мл`;
+        }
     }
     return grams;
 }
