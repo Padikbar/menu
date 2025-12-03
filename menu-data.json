@@ -16,8 +16,8 @@
     "description": "",
     "group": "ОСНОВНІ СТРАВИ",
     "category": "kitchen",
-    "picture": "photos/sosage_dip Large.jpeg",
-    "small_pic": "thumb-photos/sosage_dip Small.jpeg"
+    "picture": "",
+    "small_pic": ""
   },
   {
     "name": "Шніцель свинний з картоплею",
@@ -36,8 +36,8 @@
     "description": "",
     "group": "ОСНОВНІ СТРАВИ",
     "category": "kitchen",
-    "picture": "photos/shnitzel Large.jpeg",
-    "small_pic": "thumb-photos/shnitzel Small.jpeg"
+    "picture": "",
+    "small_pic": ""
   },
   {
     "name": "Паста з куркою та грибами",

@@ -60,7 +60,7 @@ function getItemsByType(data) {
 
 function enableActiveTab() {
     const activeNavLink = {
-        kitchen: "ГАРЯЧІ СТРАВИ",
+        kitchen: "КУХНЯ",
         cocktails: "НАПОЇ",
         wine: "ВИННА КАРТА"
     }
