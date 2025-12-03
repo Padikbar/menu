@@ -657,6 +657,13 @@
     "category": "cocktails"
   },
   {
+    "name": "Лате",
+    "weight": "150 мл",
+    "price": "45",
+    "group": "КАВА ТА ЧАЙ",
+    "category": "cocktails"
+  },
+  {
     "name": "Чай в асортименті",
     "weight": "500 мл",
     "price": "45",
@@ -685,7 +692,7 @@
     "category": "cocktails"
   },
   {
-    "name": "Cola/ cola zero",
+    "name": "Coca-Cola Original/Zero",
     "weight": "330 мл",
     "price": "40",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
@@ -720,7 +727,7 @@
     "category": "cocktails"
   },
   {
-    "name": "Red bull",
+    "name": "Red Bull Original/Zero",
     "weight": "250 мл",
     "price": "80",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
