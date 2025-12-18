@@ -169,8 +169,8 @@
     "price": 180,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "",
-    "picture": ""
+    "small_pic": "thumb-photos/blood_mery Small.jpeg",
+    "picture": "photos/blood_mery Large.jpeg"
   },
   {
     "name": "Circus",
@@ -191,8 +191,8 @@
     "price": 190,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "",
-    "picture": ""
+    "small_pic": "thumb-photos/cosmo Small.jpeg",
+    "picture": "photos/cosmo Large.jpeg"
   },
   {
     "name": "Gin Garden",
@@ -202,8 +202,8 @@
     "price": 200,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "",
-    "picture": ""
+    "small_pic": "thumb-photos/gin_garden Small.jpeg",
+    "picture": "photos/gin_garden Large.jpeg"
   },
   {
     "name": "Gin&Tonic",
@@ -213,8 +213,8 @@
     "price": 140,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "",
-    "picture": ""
+    "small_pic": "thumb-photos/jin_tonik Small.jpeg",
+    "picture": "photos/jin_tonik Large.jpeg"
   },
   {
     "name": "Green Alyona",
@@ -246,8 +246,8 @@
     "price": 210,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
-    "small_pic": "",
-    "picture": ""
+    "small_pic": "thumb-photos/logn_island Small.jpeg",
+    "picture": "photos/logn_island Large.jpeg"
   },
   {
     "name": "Negroni",
@@ -577,7 +577,10 @@
     "weight": "50 мл",
     "price": "50",
     "group": "НАСТОЯНКИ ТА ЛІКЕРИ",
-    "category": "cocktails"
+    "category": "cocktails",
+    "description": "",
+    "small_pic": "thumb-photos/nalivki Small.jpeg",
+    "picture": "photos/nalivki Large.jpeg"
   },
   {
     "name": "Corona Extra",
