@@ -680,6 +680,14 @@
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
+  
+  {
+    "name": "Чай крафтовий",
+    "weight": "500 мл",
+    "price": "60",
+    "group": "КАВА ТА ЧАЙ",
+    "category": "cocktails"
+  },
   {
     "name": "Лимонад в асортименті",
     "weight": "300 мл",
