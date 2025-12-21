@@ -482,6 +482,13 @@
     "category": "cocktails"
   },
   {
+    "name": "Captain Morgan Sliced Apple",
+    "weight": "50 мл",
+    "price": "80",
+    "group": "РОМ",
+    "category": "cocktails"
+  },
+  {
     "name": "Captain Morgan Dark",
     "weight": "50 мл",
     "price": "80",
