@@ -398,6 +398,13 @@
     "category": "cocktails"
   },
   {
+    "name": "Дядя Ярік",
+    "weight": "60 мл",
+    "price": "100",
+    "group": "ШОТИ",
+    "category": "cocktails"
+  },
+  {
     "name": "Jim Beam Bourbon",
     "weight": "50 мл",
     "price": "100",
