@@ -910,6 +910,15 @@
     "picture": ""
   },
   {
+    "name": "Джеркі курячі",
+    "price": 140,
+    "weight": 100,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
     "name": "Ікряники",
     "price": 90,
     "weight": 100,
