@@ -475,17 +475,17 @@
     "category": "cocktails"
   },
   {
-    "name": "Асканелі 3*",
-    "weight": "50 мл",
-    "price": "75",
-    "group": "БРЕНДІ",
-    "category": "cocktails"
-  },
-  {
     "name": "Bacardi Oakheart",
     "weight": "50 мл",
     "price": "60",
     "group": "РОМ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Old Kakheti 5*",
+    "weight": "50 мл",
+    "price": "80",
+    "group": "БРЕНДІ",
     "category": "cocktails"
   },
   {
