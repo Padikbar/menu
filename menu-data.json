@@ -843,6 +843,20 @@
     "category": "wine"
   },
   {
+    "name": "Le Coursier Blanc Біл/напів.сол.",
+    "weight": "150 мл",
+    "price": "150",
+    "group": "ТИХЕ",
+    "category": "wine"
+  },
+  {
+    "name": "Le Coursier Rouge Черв/напів.сол.",
+    "weight": "150 мл",
+    "price": "150",
+    "group": "ТИХЕ",
+    "category": "wine"
+  },
+  {
     "name": "Сирне плато",
     "price": 220,
     "weight": 220,
