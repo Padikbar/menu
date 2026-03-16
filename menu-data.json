@@ -620,28 +620,28 @@
   {
     "name": "Carlsberg 0,33",
     "weight": "330 мл",
-    "price": "50",
+    "price": "65",
     "group": "ПИВО",
     "category": "cocktails"
   },
   {
     "name": "Carlsberg 0,5",
     "weight": "500 мл",
-    "price": "70",
+    "price": "80",
     "group": "ПИВО",
     "category": "cocktails"
   },
   {
     "name": "Carlsberg безалкогольне 0,5",
     "weight": "500 мл",
-    "price": "65",
+    "price": "80",
     "group": "ПИВО",
     "category": "cocktails"
   },
   {
     "name": "Kronenbourg Blanc 0,33",
     "weight": "330 мл",
-    "price": "60",
+    "price": "65",
     "group": "ПИВО",
     "category": "cocktails"
   },
