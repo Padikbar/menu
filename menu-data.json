@@ -733,35 +733,35 @@
   {
     "name": "Coca-Cola Original/Zero",
     "weight": "330 мл",
-    "price": "40",
+    "price": "50",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Fanta",
     "weight": "330 мл",
-    "price": "40",
+    "price": "50",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Sprite",
     "weight": "330 мл",
-    "price": "40",
+    "price": "50",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Schweppes",
     "weight": "330 мл",
-    "price": "40",
+    "price": "50",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
-    "name": "Natakhtari",
+    "name": "ZANDUKELI",
     "weight": "500 мл",
-    "price": "70",
+    "price": "100",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
