@@ -46,8 +46,7 @@
     "description": "",
     "group": "ОСНОВНІ СТРАВИ",
     "category": "kitchen",
-    "picture": "photos/shnitzel.jpeg",
-    "small_pic": "thumb-photos/shnitzel 2 Small.jpeg"
+    "picture": ""
   },
   {
     "name": "Паста з куркою та грибами",
@@ -102,7 +101,7 @@
   {
     "name": "Свинний стейк з картоплею по-селянські",
     "price": 350,
-    "weight": 250,
+    "weight": 400,
     "description": "",
     "group": "ОСНОВНІ СТРАВИ",
     "category": "kitchen",
