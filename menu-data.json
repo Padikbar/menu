@@ -741,6 +741,13 @@
     "category": "cocktails"
   },
   {
+    "name": "Какао",
+    "weight": "200 мл",
+    "price": "70",
+    "group": "КАВА ТА ЧАЙ",
+    "category": "cocktails"
+  },
+  {
     "name": "Чай в асортименті",
     "weight": "500 мл",
     "price": "45",
