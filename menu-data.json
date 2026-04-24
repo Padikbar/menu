@@ -708,28 +708,35 @@
   {
     "name": "Американо",
     "weight": "90 мл",
-    "price": "35",
+    "price": "45",
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
   {
     "name": "Еспресо",
     "weight": "30 мл",
-    "price": "35",
+    "price": "45",
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
   {
     "name": "Капучино",
     "weight": "120 мл",
-    "price": "40",
+    "price": "70",
+    "group": "КАВА ТА ЧАЙ",
+    "category": "cocktails"
+  },
+  {
+    "name": "Флет Вайт",
+    "weight": "120 мл",
+    "price": "80",
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
   {
     "name": "Лате",
     "weight": "150 мл",
-    "price": "45",
+    "price": "80",
     "group": "КАВА ТА ЧАЙ",
     "category": "cocktails"
   },
