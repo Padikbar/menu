@@ -545,6 +545,13 @@
     "category": "cocktails"
   },
   {
+    "name": "Kraken",
+    "weight": "50 мл",
+    "price": "180",
+    "group": "РОМ",
+    "category": "cocktails"
+  },
+  {
     "name": "Captain Morgan Tiki",
     "weight": "50 мл",
     "price": "80",
@@ -562,20 +569,6 @@
     "name": "Finlandia",
     "weight": "50 мл",
     "price": "65",
-    "group": "ГОРІЛКА",
-    "category": "cocktails"
-  },
-  {
-    "name": "Finlandia Redberry",
-    "weight": "50 мл",
-    "price": "65",
-    "group": "ГОРІЛКА",
-    "category": "cocktails"
-  },
-  {
-    "name": "Stoli Salted Caramel",
-    "weight": "50 мл",
-    "price": "70",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
