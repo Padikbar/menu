@@ -377,17 +377,6 @@
     "picture": "photos/margarita Large.jpeg"
   },
   {
-    "name": "Глінтвейн",
-    "ingredients": "",
-    "weight": 170,
-    "description": "",
-    "price": 100,
-    "group": "КОКТЕЙЛІ",
-    "category": "cocktails",
-    "small_pic": "",
-    "picture": ""
-  },
-  {
     "name": "Jagerbomb",
     "weight": "360 мл",
     "price": "300",
@@ -613,6 +602,13 @@
   },
   {
     "name": "Olmeca silver",
+    "weight": "50 мл",
+    "price": "120",
+    "group": "ТЕКІЛА",
+    "category": "cocktails"
+  },
+  {
+    "name": "Jose Cuervo Especial",
     "weight": "50 мл",
     "price": "120",
     "group": "ТЕКІЛА",
