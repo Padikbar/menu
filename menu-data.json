@@ -566,9 +566,9 @@
     "category": "cocktails"
   },
   {
-    "name": "Absolut Citrus",
+    "name": "Absolut ",
     "weight": "50 мл",
-    "price": "80",
+    "price": "70",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
@@ -576,6 +576,20 @@
     "name": "Finlandia",
     "weight": "50 мл",
     "price": "65",
+    "group": "ГОРІЛКА",
+    "category": "cocktails"
+  },
+  {
+    "name": "Nemiroff   DeLuxe",
+    "weight": "50 мл",
+    "price": "70",
+    "group": "ГОРІЛКА",
+    "category": "cocktails"
+  },
+  {
+    "name": "Nemiroff Lex",
+    "weight": "50 мл",
+    "price": "120",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
@@ -590,6 +604,13 @@
     "name": "Nemiroff Делікат",
     "weight": "50 мл",
     "price": "50",
+    "group": "ГОРІЛКА",
+    "category": "cocktails"
+  },
+  {
+    "name": "Staritsky Levitsky Reserve",
+    "weight": "50 мл",
+    "price": "100",
     "group": "ГОРІЛКА",
     "category": "cocktails"
   },
