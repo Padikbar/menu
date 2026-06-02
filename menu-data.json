@@ -99,6 +99,24 @@
     "small_pic": "thumb-photos/plate_cream 2 Small.jpeg"
   },
   {
+    "name": "Борщ українскьий",
+    "price": 250,
+    "weight": 350,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
+    "name": "Окрошка",
+    "price": 200,
+    "weight": 350,
+    "description": "",
+    "group": "ОСНОВНІ СТРАВИ",
+    "category": "kitchen",
+    "picture": ""
+  },
+  {
     "name": "Свинний стейк з картоплею по-селянські",
     "price": 350,
     "weight": 400,
@@ -939,6 +957,15 @@
     "price": "150",
     "group": "ТИХЕ",
     "category": "wine"
+  },
+  {
+    "name": "Соління",
+    "price": 150,
+    "weight": 280,
+    "description": "",
+    "group": "ЗАКУСКИ",
+    "category": "kitchen",
+    "picture": ""
   },
   {
     "name": "Сирне плато",
