@@ -451,6 +451,13 @@
     "category": "cocktails"
   },
   {
+    "name": "Сет Шотів",
+    "weight": "600 мл",
+    "price": "800",
+    "group": "ШОТИ",
+    "category": "cocktails"
+  },
+  {
     "name": "Jim Beam Bourbon",
     "weight": "50 мл",
     "price": "100",
