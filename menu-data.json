@@ -106,6 +106,7 @@
     "group": "ОСНОВНІ СТРАВИ",
     "category": "kitchen",
     "picture": "photos/borshtLARGE.jpg"
+    "small_pic": "thumb-photos/BORSHTsmall.jpg"
   },
   {
     "name": "Окрошка",
