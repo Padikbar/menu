@@ -109,16 +109,6 @@
     "small_pic": "thumb-photos/BORSHTsmall.jpg"
   },
   {
-    "name": "Окрошка",
-    "price": 200,
-    "weight": 350,
-    "description": "Освіжаючий холодний суп зі свіжих овочів, яйцем, ніжним м’ясом та великою кількістю свіжої зелені. Легка, прохолодна та надзвичайно смачна страва, що чудово втамовує голод у спекотний день.",
-    "group": "ОСНОВНІ СТРАВИ",
-    "category": "kitchen",
-    "picture": "photos/okroshkaLARGE.jpg",
-    "small_pic": "thumb-photos/okroshkaSMALL.jpg"
-  },
-  {
     "name": "Свинний стейк з картоплею по-селянські",
     "price": 350,
     "weight": 400,
