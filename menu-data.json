@@ -259,7 +259,7 @@
     "ingredients": "",
     "weight": 160,
     "description": "",
-    "price": 140,
+    "price": 150,
     "group": "КОКТЕЙЛІ",
     "category": "cocktails",
     "small_pic": "thumb-photos/jin_tonik Small.jpeg",
@@ -445,7 +445,7 @@
   {
     "name": "Сет Шотів",
     "weight": "600 мл",
-    "price": "800",
+    "price": "1000",
     "group": "ШОТИ",
     "category": "cocktails"
   },
@@ -812,28 +812,28 @@
   {
     "name": "Coca-Cola Original/Zero",
     "weight": "330 мл",
-    "price": "60",
+    "price": "80",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Fanta",
     "weight": "330 мл",
-    "price": "60",
+    "price": "80",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Sprite",
     "weight": "330 мл",
-    "price": "60",
+    "price": "80",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Schweppes",
     "weight": "330 мл",
-    "price": "60",
+    "price": "80",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
@@ -854,14 +854,14 @@
   {
     "name": "Моршинська Вода газована",
     "weight": "500 мл",
-    "price": "50",
+    "price": "60",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
   {
     "name": "Моршинська Вода негазована",
     "weight": "500 мл",
-    "price": "50",
+    "price": "60",
     "group": "БЕЗАЛКОГОЛЬНІ НАПОЇ",
     "category": "cocktails"
   },
