@@ -1098,7 +1098,7 @@
   },
   {
     "name": "Нагетси",
-    "price": 140,
+    "price": 160,
     "weight": 200,
     "description": "",
     "group": "ЗАКУСКИ",
@@ -1126,7 +1126,7 @@
   },
   {
     "name": "Картопля фрі",
-    "price": 80,
+    "price": 100,
     "weight": 150,
     "description": "",
     "group": "ЗАКУСКИ",
@@ -1135,7 +1135,7 @@
   },
   {
     "name": "Картопляні діпи",
-    "price": 100,
+    "price": 120,
     "weight": 150,
     "description": "",
     "group": "ЗАКУСКИ",
